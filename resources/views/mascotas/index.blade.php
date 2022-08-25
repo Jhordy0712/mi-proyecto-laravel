@@ -9,7 +9,7 @@
 
 
 
-    <title>mascotass titulo</title>
+    <title>mascotass</title>
     <title>mascotass</title>
 </head>
 <body>
