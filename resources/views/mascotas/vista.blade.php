@@ -8,7 +8,7 @@
 </head>
 <body>
 
-        <h1>Jhordy Santiago Lugo Espadas "EXAMEN GLOBAL"</h1>
+        <h1>Jhordy Santiago Lugo Espadas "EXAMEN GLOBAL GLOBAL"</h1>
 
 </body>
 </html>
